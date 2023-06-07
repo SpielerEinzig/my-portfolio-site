@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473396229846",
+    "project_id": "spieler-einzig",
+    "storage_bucket": "spieler-einzig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473396229846:android:3a3a329e930e9e9265bb77",
+        "android_client_info": {
+          "package_name": "com.example.ryans_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473396229846-g5ouqpc7aqjkvnnbi59v7atahijpbm1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1egcEG3fYxaVuAi1x45pop1BbypG1Ins"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473396229846-g5ouqpc7aqjkvnnbi59v7atahijpbm1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
